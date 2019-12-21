@@ -23,7 +23,7 @@ This App features the latest tools and practices in web development!
 - 💅 **CSS** — styled-components
 - 💖 **Lint** — ESlint/Prettier/Editor Config
 
-I've used other libraries too, like **date-fns** for dates & tz; **polished*** for some colors; **immer** Redux.
+I've used other libraries too, like **date-fns** for dates & tz; **polished** for some colors; **immer** for Redux.
 
 ## Getting started
 
